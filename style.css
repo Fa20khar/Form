@@ -1,0 +1,68 @@
+/* Body settings */
+body {
+    font-family: Arial;       
+    font-size: 16px;        
+    cursor: default;         
+    letter-spacing: 1px;
+    background-color: aqua;      
+}
+
+/* Form Heading */
+.form-heading {
+    font-weight: 700;         
+    text-align: center;       
+    text-decoration: underline; 
+    font-size: 24px;
+}
+
+/* Labels */
+label {
+    font-weight: 600;
+}
+
+/* Inputs and textarea */
+input, select, textarea {
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    background-color: rgb(178, 178, 210);
+}
+
+/* Table for qualification */
+.qualification-table {
+    width: 100%;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+/* Table headings */
+.qualification-table th {
+    font-weight: 700;
+    font-size: 16px;
+    
+}
+
+/* Table data */
+.qualification-table td input {
+    font-weight: 400;
+    font-size: 15px;
+}
+
+/* Buttons */
+button {
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 600;
+
+}
+
+/* Links inside table (if any) */
+a {
+    text-decoration: none;
+    font-weight: 600;
+}
+
+a:hover {
+    text-decoration: underline;
+}
